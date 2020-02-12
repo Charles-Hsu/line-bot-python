@@ -30,7 +30,10 @@ https://developers.line.biz/console/provider/1653848175
     $ git commit -m "init"
     $ git push heroku master
     
-- 需要 git 上去的檔案： app.py, requirements.txt, Procfile
+- 需要 git 上去的檔案： app.py, requirements.txt, Procfile, 不然會有 error
+
+![](https://github.com/Charles-Hsu/line-bot-python/blob/master/heroku_push_error.png)
+
     
     
 
