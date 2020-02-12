@@ -14,10 +14,14 @@ https://developers.line.biz/console/provider/1653848175
 
 ![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Channel%20access%20token.png)
 
-進階設定中，<br>
-Auto-reply messages Disable <br>
-Use webhook <br>
+#### 進階設定中
 
+    Auto-reply messages Disable
+    Use webhook
+    
+#### Basic settings
+
+![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Basic%20Setting.png)
 
 參考資料
 
