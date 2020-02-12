@@ -21,7 +21,7 @@ https://developers.line.biz/console/provider/1653848175
     
 #### Basic settings
 
-![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Basic%20Setting.png)
+![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Channel%20secret.png)
 
 參考資料
 
