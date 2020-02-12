@@ -14,7 +14,7 @@ https://developers.line.biz/console/provider/1653848175
 
 ![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Channel%20access%20token.png)
 
-#### 進階設定中
+#### Messaging API settings
 
     Auto-reply messages Disable
     Use webhook
