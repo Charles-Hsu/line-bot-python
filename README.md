@@ -34,8 +34,8 @@ https://developers.line.biz/console/provider/1653848175
 
 ![](https://github.com/Charles-Hsu/line-bot-python/blob/master/heroku_push_error.png)
 
-    
-    
+    $ heroku logs
+    https://dashboard.heroku.com/apps/a04970e2-11e5-487f-8298-6db6c4fc1836/activity/builds/ae35e3ac-9a3b-43d1-bc17-4fb39098fe60
 
 參考資料
 
