@@ -13,3 +13,8 @@ https://developers.line.biz/console/provider/1653848175
 在 Messaging API 內取得 Channel access token 
 
 ![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Channel%20access%20token.png)
+
+
+參考資料
+
+https://github.com/yaoandy107/line-bot-tutorial
