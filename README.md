@@ -43,6 +43,14 @@ https://developers.line.biz/console/channel/1653848180
 
 ![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Line_Bot_User_ID.png)
 
+###### 點選 Messaging API
+
+![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Line_Bot_Messaging_API.png)
+
+###### 點選 Basic Setting
+
+![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Line_Bot_Basic_Setting.png)
+
 參考資料
 
 https://github.com/yaoandy107/line-bot-tutorial
