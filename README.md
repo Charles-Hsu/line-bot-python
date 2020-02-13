@@ -32,11 +32,12 @@ https://developers.line.biz/console/provider/1653848175
     
 - 需要 git 上去的檔案： app.py, requirements.txt, Procfile, 不然會有 error
 
-![](https://github.com/Charles-Hsu/line-bot-python/blob/master/heroku_push_error.png | width=48)
+![](https://github.com/Charles-Hsu/line-bot-python/blob/master/heroku_push_error.png)
 
     $ heroku logs
 
 這時候到 Line 加入朋友後, 就會有基本的回應, 雖然在 Verify callback 會有沒有成功傳回200的錯誤訊息 (以後再來處理)
+![](https://github.com/Charles-Hsu/line-bot-python/blob/master/webhook_other_than_200.png)
     
 <img src="https://github.com/Charles-Hsu/line-bot-python/blob/master/line_bot_screen_shoot_1.jpg" width="240">
     
