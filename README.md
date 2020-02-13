@@ -35,7 +35,10 @@ https://developers.line.biz/console/provider/1653848175
 ![](https://github.com/Charles-Hsu/line-bot-python/blob/master/heroku_push_error.png)
 
     $ heroku logs
+
+這時候到 Line 加入朋友後, 就會有基本的回應, 雖然在 Verify callback 會有沒有成功傳回200的錯誤訊息 (以後再來處理)
     
+![](https://github.com/Charles-Hsu/line-bot-python/blob/master/line_bot_screen_shoot_1.jpg)
     
 #### 取得 User ID
 
