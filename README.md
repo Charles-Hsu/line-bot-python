@@ -41,6 +41,7 @@ https://developers.line.biz/console/provider/1653848175
 ![](https://github.com/Charles-Hsu/line-bot-python/blob/master/line_bot_screen_shoot_1.jpg)
 
 <img src="https://github.com/Charles-Hsu/line-bot-python/blob/master/line_bot_screen_shoot_1.jpg" width="120">
+<img src="https://github.com/Charles-Hsu/line-bot-python/blob/master/line_bot_screen_shoot_1.jpg" width="240">
 <img src="https://github.com/Charles-Hsu/line-bot-python/blob/master/line_bot_screen_shoot_1.jpg" width="320">
     
 #### 取得 User ID
