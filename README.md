@@ -41,6 +41,8 @@ https://developers.line.biz/console/provider/1653848175
 
 https://developers.line.biz/console/channel/1653848180
 
+![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Line_Bot_User_ID.png)
+
 參考資料
 
 https://github.com/yaoandy107/line-bot-tutorial
