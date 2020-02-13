@@ -36,6 +36,10 @@ https://developers.line.biz/console/provider/1653848175
 
     $ heroku logs
     
+    
+#### User ID
+
+https://developers.line.biz/console/channel/1653848180
 
 參考資料
 
