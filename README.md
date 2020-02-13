@@ -43,11 +43,7 @@ https://developers.line.biz/console/channel/1653848180
 
 ![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Line_Bot_User_ID.png)
 
-###### 點選 Messaging API
-
-![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Line_Bot_Messaging_API.png)
-
-###### 點選 Basic Setting
+點選 Messaging API, 在 Basic Setting 頁面最下方就有 Your user ID 可以選, 複製貼上, 等一下會用到
 
 ![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Line_Bot_Basic_Setting.png)
 
