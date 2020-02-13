@@ -51,6 +51,12 @@ https://developers.line.biz/console/channel/1653848180
 
 ![](https://github.com/Charles-Hsu/line-bot-python/blob/master/Line_Bot_Basic_Setting.png)
 
+依照步驟做之後, 在 webhook 的位址填上 https://linebot4service.herokuapp.com/push_function, 這時候就可以發送訊息了
+
+https://linebot4service.herokuapp.com/push_function/%E9%80%81%E8%B2%A8%E8%B3%87%E8%A8%8A%20%E5%9C%B0%E5%9D%80%E5%9C%A8%20%E5%BB%B6%E5%B9%B3%E5%8C%97%E8%B7%AF%E4%BA%94%E6%AE%B5285%E5%B7%B765%E8%99%9F3%E6%A8%93
+
+<img src="https://github.com/Charles-Hsu/line-bot-python/blob/master/line_bot_screen_shoot_2.jpg" width="240">
+
 參考資料
 
 https://github.com/yaoandy107/line-bot-tutorial
